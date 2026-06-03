@@ -32,11 +32,11 @@
         </p>
 
         <p>
-            <label for="branch-select">Branch / Department:</label><br>
+            <label for="branch-select">Branch OR Department:</label><br>
             <select id="branch-select" name="branch">
-                <option value="">-- Please choose an option --</option>
-                <option value="cse">Computer Science & Engineering</option>
-                <option value="ece">Electronics & Communication Engineering</option>
+                <option value=""> Please choose an option </option>
+                <option value="cse">Computer Science and Engineering</option>
+                <option value="ece">Electronics and Communication Engineering</option>
                 <option value="me">Mechanical Engineering</option>
                 <option value="ce">Civil Engineering</option>
                 <option value="ee">Electrical Engineering</option>
@@ -70,7 +70,7 @@
             <label for="event-gaming">LAN Gaming Arena</label><br>
             
             <input type="checkbox" id="event-seminar" name="events" value="seminar">
-            <label for="event-seminar">AI & Future Tech Seminar</label>
+            <label for="event-seminar">AI and Future Tech Seminar</label>
         </p>
 
         <p>
