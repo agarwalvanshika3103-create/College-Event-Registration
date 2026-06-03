@@ -11,31 +11,26 @@
 
     <form action="#" method="POST">
 
-        <!-- Full Name -->
         <p>
             <label for="full-name">Full Name:</label><br>
             <input type="text" id="full-name" name="fullName" required>
         </p>
 
-        <!-- Email -->
         <p>
             <label for="email-address">Email:</label><br>
             <input type="email" id="email-address" name="email" required>
         </p>
 
-        <!-- Phone Number -->
         <p>
             <label for="phone-number">Phone Number:</label><br>
             <input type="tel" id="phone-number" name="phoneNumber">
         </p>
 
-        <!-- Date of Birth -->
         <p>
             <label for="dob">Date of Birth:</label><br>
             <input type="date" id="dob" name="dateOfBirth">
         </p>
 
-        <!-- Branch (Dropdown) -->
         <p>
             <label for="branch-select">Branch / Department:</label><br>
             <select id="branch-select" name="branch">
@@ -48,7 +43,6 @@
             </select>
         </p>
 
-        <!-- Year (Radio Buttons) -->
         <p>
             <label>Current Year:</label><br>
             <input type="radio" id="year-1" name="academicYear" value="1st">
@@ -64,7 +58,6 @@
             <label for="year-4">4th Year</label>
         </p>
 
-        <!-- Events to Attend (Checkboxes) -->
         <p>
             <label>Events to Attend:</label><br>
             <input type="checkbox" id="event-hackathon" name="events" value="hackathon">
@@ -80,13 +73,11 @@
             <label for="event-seminar">AI & Future Tech Seminar</label>
         </p>
 
-        <!-- How did you hear about us? (Textarea) -->
         <p>
             <label for="referral-source">How did you hear about us?</label><br>
             <textarea id="referral-source" name="referralSource" rows="4" cols="40"></textarea>
         </p>
 
-        <!-- Submit Button -->
         <p>
             <input type="submit" value="Register Now">
         </p>
