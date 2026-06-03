@@ -24,7 +24,7 @@
             <h2>About the Event</h2>
             <p>Join us for the most anticipated campus event of the year, featuring hands-on hackathons, robotics showdowns, and seminars from industry experts.</p>
             
-            <p><strong>Event Dates:</strong> <time datetime="2026-10-15">October 15</time> to <time datetime="2026-10-17">October 17, 2026</time></p>
+            <p><strong>Event Dates:</strong> <time datetime="2026-10-15"> October 15 </time> to <time datetime="2026-10-17"> October 17, 2026 </time></p>
             
             <figure>
                 <figcaption>Highlights from last year's CodeStorm Hackathon.</figcaption>
@@ -57,15 +57,15 @@
                 </p>
 
                 <p>
-                    <label for="branch-select">Branch / Department:</label><br>
+                    <label for="branch-select">Branch OR Department:</label><br>
                     <select id="branch-select" name="branch">
                         <option value="">Please choose an option</option>
-                        <option value="cse">Computer Science & Engineering</option>
-                        <option value="ece">Electronics & Communication Engineering</option>
+                        <option value="cse">Computer Science and Engineering</option>
+                        <option value="ece">Electronics and Communication Engineering</option>
                         <option value="me">Mechanical Engineering</option>
                         <option value="ce">Civil Engineering</option>
                         <option value="ee">Electrical Engineering</option>
-                    </select>
+                    </select> 
                 </p>
 
                 <p>
@@ -124,7 +124,7 @@
 
     <footer>
         <address>
-            Contact us at: <a href="mailto:events@college.edu">events@college.edu</a><br>
+            Contact us at: <a href="mailto:events@college.edu"> events@college.edu </a><br>
             Tech Fest Organizing Committee<br>
             Engineering Block A, University Campus<br>
             123 Education Lane, Cityville
