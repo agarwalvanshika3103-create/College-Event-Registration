@@ -95,7 +95,7 @@
                     <label for="event-gaming">LAN Gaming Arena</label><br>
                     
                     <input type="checkbox" id="event-seminar" name="events" value="seminar">
-                    <label for="event-seminar">AI & Future Tech Seminar</label>
+                    <label for="event-seminar">AI and Future Tech Seminar</label>
                 </p>
 
                 <p>
@@ -124,7 +124,7 @@
 
     <footer>
         <address>
-            Contact us at: <a href="mailto:events@college.edu"> events@college.edu </a><br>
+            Contact us at: <a href="mailto:events@college.edu"> events@college.edu</a><br>
             Tech Fest Organizing Committee<br>
             Engineering Block A, University Campus<br>
             123 Education Lane, Cityville
