@@ -24,7 +24,7 @@
             <h2>About the Event</h2>
             <p>Join us for the most anticipated campus event of the year, featuring hands-on hackathons, robotics showdowns, and seminars from industry experts.</p>
             
-            <p><strong>Event Dates:</strong> <time datetime="2026-10-15"> October 15</time> to <time datetime="2026-10-17"> October 17, 2026</time></p>
+            <p><strong>Event Dates:</strong><time datetime="2026-10-15"> October 15</time> to<time datetime="2026-10-17"> October 17, 2026</time></p>
             
             <figure>
                 <figcaption>Highlights from last year's CodeStorm Hackathon.</figcaption>
